@@ -1,8 +1,7 @@
 from rasterio.merge import merge
 from osgeo import gdal
 import numpy as np
-import sys
-from PIL import Image
+
 # Task a
 
 # convert jpg to tiff
